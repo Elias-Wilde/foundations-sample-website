@@ -6,7 +6,7 @@ runtime: python38
 instance_class: F2
 
 handlers:
-- url: static
+- url: /static
   static_dir: week1/static
 
 - url: /.*
