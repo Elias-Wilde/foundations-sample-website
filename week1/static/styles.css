@@ -1,21 +1,26 @@
-body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin-left: 2rem;
+header {
+    margin: 0 0;
 }
 
-.banner{
-    margin-top: 2rem;
-    color: blueviolet;
-    margin-bottom: 1rem;
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 100%;
+    margin: 0px;
 }
+
 
 footer{
     margin-top: 5rem;
     text-align: center;
 }
+
+main {
+    margin-left: 10rem;
+}
 .nav_bar {
-    background-color: grey;
+    background-color: black;
     overflow: hidden;
+    width: 100%;
 }
 .nav_bar a {
     float: left;
@@ -32,4 +37,10 @@ footer{
 .nav_bar a.active {
     background-color: #4CAF50;
     color: white;
+}
+
+.banner{
+    margin-top: 2rem;
+    color: blueviolet;
+    margin-bottom: 1rem;
 }
