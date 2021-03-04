@@ -15,7 +15,7 @@ footer{
 }
 
 main {
-    margin-left: 10rem;
+    margin-left: ;
 }
 .nav_bar {
     background-color: black;
@@ -26,9 +26,10 @@ main {
     float: left;
     color: #f2f2f2;
     text-align: center;
-    padding: 14px 16px;
+    padding: 24px 26px;
     text-decoration: none;
     font-size: 17px;
+    margin: 0px 12%;
 }
 .nav_bar a:hover {
     background-color: #ddd;
@@ -38,9 +39,49 @@ main {
     background-color: #4CAF50;
     color: white;
 }
-
-.banner{
-    margin-top: 2rem;
-    color: blueviolet;
-    margin-bottom: 1rem;
+.header {
+    height: 25%;
+}
+.image_header_block {
+    width: 100%;
+    margin: 0;
+    background-image: url(https://code.berlin/content/uploads/3fab9ffd-1800x1200.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px;
+}
+.header_text {
+    text-align: center;
+    display: block;
+    padding-top: 15%;
+    color: white;
+    text-shadow: rgb(0 0 0 / 30%) 0px 0px 7px;
+}
+.header_text h2 {
+    font-size: 6rem;
+    font-weight: bold;
+    margin: 0;
+}
+.header_text p {
+    font-size: 2rem;
+}
+.text_block {
+    background-color: white;
+    width: 100%;
+    height: ;
+}
+.our_belive {
+    width: 60%;
+    height: 100%;
+    margin: auto;
+    color: rgb(36, 36, 36);
+    display: flex;
+}
+.our_belive p {
+    float: left;
+    box-sizing: border-box;
+    text-align: justify;
+    margin: 45px 25px;
+    font-size: 1.5rem;
+    line-height: 2.5rem;
 }

@@ -9,10 +9,22 @@ It does not use the power of Flask, but is easier to read than some of the other
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML -->
 
 {% block content %}
-    <h1 class="banner">Hello, Static HTML!</h1>
-    <p>Lol was geht ab?we did in class the first week on glitch. </p>
-    <p>So far, we are not using the power of Flask, but you will in this assignment!</p>
-
-    <p> To see a page which starts to use Flask to <em>generate</em> dynamic code, <a href="/first-page">click here</a>.</p>
+    <section id="header">
+        <div class="content_block">
+            <section class="image_header_block">
+                    <div class="header_text">
+                        <h2>Study Concept</h2>
+                        <p> Some text idk lololddf w</p>
+                    </div>
+            </section>
+        </div>
+    </section>
+    <section class="text_block">
+        <div class="our_belive">
+            <p>We do not believe in the importance of grades or the value of theoretical knowledge acquired just to pass an exam. Chances are, this knowledge (or what will be left of it) will be of little or no use to you in your professional life.
+                We will discuss your ideas and beliefs with you, but we will never expect you to learn something just to pass a test.</p>
+            <p>Our approach is to present you with inspiring challenges that spark your imagination, while at the same time showing you what you need to learn to master them. We will assist you in identifying helpful resources and organize workshops where you can get assistance from experts as well as your peers while providing useful feedback for others.</p>
+        </div>
+    </section>
 {% endblock %}
 

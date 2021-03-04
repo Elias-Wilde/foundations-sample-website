@@ -24,5 +24,5 @@ if __name__ == "__main__":
     app.run(host="localhost", port=8080, debug=True)
 
     #RUN FLASK LOCAL SERVER THINGI
-    #$ export FLASK_APP=myapp
+    #$ export FLASK_APP= 'myapp' <- change  to file name!
     #$ flask run
