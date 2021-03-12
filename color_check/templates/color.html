@@ -1,7 +1,25 @@
 {% extends "base.html" %}
 
 {% block content %}
-    <p> Edit this file to show the name of the color and to render a square of that color itself! 
-    </p>
+
+{%- if color_hex_code -%}
+    <h1>Hex is: {{ color_hex_code }} </h1>
+    <div class="square" style="background-color:  {{ color_hex_code }}; width: 200px; height: 200px;"></div>
+{%- else -%}
+    <h1>Invalid Color</h1>
+{%- endif %}
+
+
+
+<!-- <script>
+    function addCss(rule) {
+        let sheet = document.styleSheets[0];
+        sheet.insertRule(rule)
+    }
+    let rule = 'body { background-color: {{ color_hex_code }}; width: 200px; height: 200px; }';
+    window.onload = function () {
+        addCss(rule)
+    };
+</script> -->
 
 {% endblock %}

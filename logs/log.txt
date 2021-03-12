@@ -1,0 +1,40 @@
+[INFO] 2021-03-12 15:21:02,289 - Submitted color: red
+[INFO] 2021-03-12 15:21:07,044 - Submitted color: red
+[INFO] 2021-03-12 15:21:16,916 - Submitted color: ddd
+[INFO] 2021-03-12 15:25:06,343 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO] 2021-03-12 15:25:24,100 - 127.0.0.1 - - [12/Mar/2021 15:25:24] "[37mGET / HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 15:25:24,133 - 127.0.0.1 - - [12/Mar/2021 15:25:24] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 15:25:25,241 - Submitted color: ddd
+[INFO] 2021-03-12 15:25:25,246 - 127.0.0.1 - - [12/Mar/2021 15:25:25] "[37mPOST /color HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 15:25:25,285 - 127.0.0.1 - - [12/Mar/2021 15:25:25] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 15:25:58,406 - 127.0.0.1 - - [12/Mar/2021 15:25:58] "[37mGET / HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 15:25:58,436 - 127.0.0.1 - - [12/Mar/2021 15:25:58] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 15:26:00,541 - Submitted color: red
+[INFO] 2021-03-12 15:26:00,543 - 127.0.0.1 - - [12/Mar/2021 15:26:00] "[37mPOST /color HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 15:26:00,570 - 127.0.0.1 - - [12/Mar/2021 15:26:00] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 15:26:06,874 - 127.0.0.1 - - [12/Mar/2021 15:26:06] "[31m[1mGET /color HTTP/1.1[0m" 405 -
+[INFO] 2021-03-12 15:27:19,067 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO] 2021-03-12 15:27:38,739 - 127.0.0.1 - - [12/Mar/2021 15:27:38] "[31m[1mGET /color HTTP/1.1[0m" 405 -
+[INFO] 2021-03-12 15:28:25,822 [werkzeug] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO] 2021-03-12 15:28:35,409 [werkzeug] - 127.0.0.1 - - [12/Mar/2021 15:28:35] "[31m[1mGET /color HTTP/1.1[0m" 405 -
+[INFO] 2021-03-12 15:28:39,668 [werkzeug] - 127.0.0.1 - - [12/Mar/2021 15:28:39] "[37mGET / HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 15:28:39,699 [werkzeug] - 127.0.0.1 - - [12/Mar/2021 15:28:39] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 15:28:41,044 [color_check.website] - Submitted color: red
+[INFO] 2021-03-12 15:28:41,048 [werkzeug] - 127.0.0.1 - - [12/Mar/2021 15:28:41] "[37mPOST /color HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 15:28:41,093 [werkzeug] - 127.0.0.1 - - [12/Mar/2021 15:28:41] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 15:29:05,668 [werkzeug] 	 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO] 2021-03-12 15:29:10,929 [werkzeug] 	 - 127.0.0.1 - - [12/Mar/2021 15:29:10] "[31m[1mGET /color HTTP/1.1[0m" 405 -
+[INFO] 2021-03-12 15:29:13,542 [werkzeug] 	 - 127.0.0.1 - - [12/Mar/2021 15:29:13] "[37mGET / HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 15:29:13,570 [werkzeug] 	 - 127.0.0.1 - - [12/Mar/2021 15:29:13] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 15:29:14,531 [color_check.website] 	 - Submitted color: red
+[INFO] 2021-03-12 15:29:14,535 [werkzeug] 	 - 127.0.0.1 - - [12/Mar/2021 15:29:14] "[37mPOST /color HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 15:29:14,565 [werkzeug] 	 - 127.0.0.1 - - [12/Mar/2021 15:29:14] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 16:50:46,264 [werkzeug] 	 - 127.0.0.1 - - [12/Mar/2021 16:50:46] "[37mGET / HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 16:50:46,293 [werkzeug] 	 - 127.0.0.1 - - [12/Mar/2021 16:50:46] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 16:50:57,480 [werkzeug] 	 - 127.0.0.1 - - [12/Mar/2021 16:50:57] "[37mGET / HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 16:50:57,506 [werkzeug] 	 - 127.0.0.1 - - [12/Mar/2021 16:50:57] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 16:51:01,121 [color_check.website] 	 - Submitted color: green
+[INFO] 2021-03-12 16:51:01,122 [werkzeug] 	 - 127.0.0.1 - - [12/Mar/2021 16:51:01] "[37mPOST /color HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 16:51:01,145 [werkzeug] 	 - 127.0.0.1 - - [12/Mar/2021 16:51:01] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 16:51:04,367 [werkzeug] 	 - 127.0.0.1 - - [12/Mar/2021 16:51:04] "[37mGET / HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 16:51:04,392 [werkzeug] 	 - 127.0.0.1 - - [12/Mar/2021 16:51:04] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
