@@ -38,3 +38,13 @@
 [INFO] 2021-03-12 16:51:01,145 [werkzeug] 	 - 127.0.0.1 - - [12/Mar/2021 16:51:01] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
 [INFO] 2021-03-12 16:51:04,367 [werkzeug] 	 - 127.0.0.1 - - [12/Mar/2021 16:51:04] "[37mGET / HTTP/1.1[0m" 200 -
 [INFO] 2021-03-12 16:51:04,392 [werkzeug] 	 - 127.0.0.1 - - [12/Mar/2021 16:51:04] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 18:05:44,146 [color_check.website] 	 - Submitted color: 3424
+[INFO] 2021-03-12 18:05:44,147 [werkzeug] 	 - 127.0.0.1 - - [12/Mar/2021 18:05:44] "[37mPOST /color HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 18:05:44,174 [werkzeug] 	 - 127.0.0.1 - - [12/Mar/2021 18:05:44] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 18:05:45,950 [werkzeug] 	 - 127.0.0.1 - - [12/Mar/2021 18:05:45] "[37mGET / HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 18:05:45,976 [werkzeug] 	 - 127.0.0.1 - - [12/Mar/2021 18:05:45] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 18:05:51,057 [color_check.website] 	 - Submitted color: BLUE
+[INFO] 2021-03-12 18:05:51,058 [werkzeug] 	 - 127.0.0.1 - - [12/Mar/2021 18:05:51] "[37mPOST /color HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 18:05:51,081 [werkzeug] 	 - 127.0.0.1 - - [12/Mar/2021 18:05:51] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 18:05:52,227 [werkzeug] 	 - 127.0.0.1 - - [12/Mar/2021 18:05:52] "[37mGET / HTTP/1.1[0m" 200 -
+[INFO] 2021-03-12 18:05:52,251 [werkzeug] 	 - 127.0.0.1 - - [12/Mar/2021 18:05:52] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
